@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.clock-wrap {
+	width: 40%;
+	margin: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.clock-wrap {
+	width: 100%;
+	margin: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	background: green;
+}
+.clock-content {
+	width: 500px;
+	height: 500px;
+	background: red;
+	text-align: center;
+	border-radius: 50%;
+	line-height: 50px;
+	border: none;
+}
+.clock-content h1 {
+	font-size: 36px;
+	font-family: roboto;
+	font-weight: 900;
+	margin-top: 123px;
+	color: #fff;
+}
+.clock-content h2 {
+	width: 394px;
+	height: 65px;
+	margin-top: 81px !important;
+	border-radius: 100px;
+	border: none;
+	text-align: center;
+	font-size: 40px;
+	color: black;
+	background: #fff;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin: auto;
+	line-height: 66px;
+}
+
+
+
+
+
+
+
+
+
